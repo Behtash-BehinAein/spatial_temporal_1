@@ -1,2 +1,3 @@
 # spatial_temporal_1
-contains spatial temporal data for various users 
+Contains spatial temporal data for various users. 
+There are time stamps along with geographical coordinates for each user. Each user has its own json file. 
